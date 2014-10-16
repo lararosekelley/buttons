@@ -12,7 +12,9 @@ Run the install script (will create a `buttons` directory and install everything
 
     $ curl -s https://raw.githubusercontent.com/tylucaskelley/buttons/master/install.sh | sh
 
-and you can then use the Sass files (in the `scss` dir) or the compiled `main.css` file.
+This will install all of the Sass files. If you want the minified CSS instead, simply do this:
+
+    $ curl -sO https://raw.githubusercontent.com/tylucaskelley/buttons/master/css/buttons.css
 
 ### Examples
 
