@@ -19,6 +19,9 @@
     border: none;
     a > & {
         line-height: $h;
+        text-align: center;
+    }
+    & {
         cursor: pointer;
     }
 }
