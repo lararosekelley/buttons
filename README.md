@@ -1,5 +1,3 @@
-<link href='css/buttons.css' type='text/css' rel='stylesheet'>
-
 # Buttons
 
 by Ty-Lucas Kelley
@@ -21,9 +19,3 @@ and you can then use the Sass files (in the `scss` dir) or the compiled `main.cs
 ### All Options
 
 ### Examples
-
-<a>
-    <div class='turquoise-circle-md'>hello</div>
-</a>
-
-<button class='turquoise-circle-xs'>
