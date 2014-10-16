@@ -8,10 +8,9 @@ I took the colors from [http://flatuicolors.com](http://flatuicolors.com) and ma
 
 ### Installation
 
-Run the install script:
+Run the install script (will create a `buttons` directory and install everything there):
 
-    $ mkdir buttons && cd buttons
-    $ curl https://raw.githubusercontent.com/tylucaskelley/buttons/master/install.sh | sh
+    $ curl -s https://raw.githubusercontent.com/tylucaskelley/buttons/master/install.sh | sh
 
 and you can then use the Sass files (in the `scss` dir) or the compiled `main.css` file.
 

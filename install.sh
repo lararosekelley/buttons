@@ -2,6 +2,7 @@
 
 # start
 echo "installing tylucaskelley/buttons..." &&
+mkdir buttons && cd buttons &&
 
 # get main.scss
 curl -sO https://raw.githubusercontent.com/tylucaskelley/buttons/master/scss/main.scss &&
@@ -14,5 +15,5 @@ curl -sO https://raw.githubusercontent.com/tylucaskelley/buttons/master/scss/par
 curl -sO https://raw.githubusercontent.com/tylucaskelley/buttons/master/scss/partials/_utilities.scss &&
 
 # clean up
-cd .. &&
+cd ../.. &&
 echo "done!"
