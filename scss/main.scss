@@ -1,0 +1,30 @@
+/**
+* Buttons
+* by Ty-Lucas Kelley
+*
+* button classes
+*/
+
+@import 'partials/_shapes';
+
+//turquoise
+
+.turquoise-circle-xs {
+    @include circle-xs($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-circle-sm {
+    @include circle-sm($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-circle-md {
+    @include circle-md($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-circle-lg {
+    @include circle-lg($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-circle-xl {
+    @include circle-xl($turquoise, $turquoise_bg, $white);
+}
