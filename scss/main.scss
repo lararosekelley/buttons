@@ -433,66 +433,976 @@
 
 //circles
 
-.belize-hole-circle-xs {
-    @include circle-xs($belize_hole, $belize_hole_bg, $white);
+.amethyst-circle-xs {
+    @include circle-xs($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-circle-sm {
-    @include circle-sm($belize_hole, $belize_hole_bg, $white);
+.amethyst-circle-sm {
+    @include circle-sm($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-circle-md {
-    @include circle-md($belize_hole, $belize_hole_bg, $white);
+.amethyst-circle-md {
+    @include circle-md($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-circle-lg {
-    @include circle-lg($belize_hole, $belize_hole_bg, $white);
+.amethyst-circle-lg {
+    @include circle-lg($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-circle-xl {
-    @include circle-xl($belize_hole, $belize_hole_bg, $white);
+.amethyst-circle-xl {
+    @include circle-xl($amethyst, $amethyst_bg, $white);
 }
 
 //squares
 
-.belize-hole-square-xs {
-    @include square-xs($belize_hole, $belize_hole_bg, $white);
+.amethyst-square-xs {
+    @include square-xs($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-square-sm {
-    @include square-sm($belize_hole, $belize_hole_bg, $white);
+.amethyst-square-sm {
+    @include square-sm($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-square-md {
-    @include square-md($belize_hole, $belize_hole_bg, $white);
+.amethyst-square-md {
+    @include square-md($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-square-lg {
-    @include square-lg($belize_hole, $belize_hole_bg, $white);
+.amethyst-square-lg {
+    @include square-lg($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-square-xl {
-    @include square-xl($belize_hole, $belize_hole_bg, $white);
+.amethyst-square-xl {
+    @include square-xl($amethyst, $amethyst_bg, $white);
 }
 
 //rectangles
 
-.belize-hole-rect-xs {
-    @include rect-xs($belize_hole, $belize_hole_bg, $white);
+.amethyst-rect-xs {
+    @include rect-xs($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-rect-sm {
-    @include rect-sm($belize_hole, $belize_hole_bg, $white);
+.amethyst-rect-sm {
+    @include rect-sm($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-rect-md {
-    @include rect-md($belize_hole, $belize_hole_bg, $white);
+.amethyst-rect-md {
+    @include rect-md($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-rect-lg {
-    @include rect-lg($belize_hole, $belize_hole_bg, $white);
+.amethyst-rect-lg {
+    @include rect-lg($amethyst, $amethyst_bg, $white);
 }
 
-.belize-hole-rect-xl {
-    @include rect-xl($belize_hole, $belize_hole_bg, $white);
+.amethyst-rect-xl {
+    @include rect-xl($amethyst, $amethyst_bg, $white);
+}
+
+/**
+* wisteria
+*/
+
+//circles
+
+.wisteria-circle-xs {
+    @include circle-xs($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-circle-sm {
+    @include circle-sm($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-circle-md {
+    @include circle-md($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-circle-lg {
+    @include circle-lg($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-circle-xl {
+    @include circle-xl($wisteria, $wisteria_bg, $white);
+}
+
+//squares
+
+.wisteria-square-xs {
+    @include square-xs($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-square-sm {
+    @include square-sm($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-square-md {
+    @include square-md($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-square-lg {
+    @include square-lg($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-square-xl {
+    @include square-xl($wisteria, $wisteria_bg, $white);
+}
+
+//rectangles
+
+.wisteria-rect-xs {
+    @include rect-xs($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-rect-sm {
+    @include rect-sm($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-rect-md {
+    @include rect-md($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-rect-lg {
+    @include rect-lg($wisteria, $wisteria_bg, $white);
+}
+
+.wisteria-rect-xl {
+    @include rect-xl($wisteria, $wisteria_bg, $white);
+}
+
+/**
+* wet asphalt
+*/
+
+//circles
+
+.wet-asphalt-circle-xs {
+    @include circle-xs($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-circle-sm {
+    @include circle-sm($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-circle-md {
+    @include circle-md($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-circle-lg {
+    @include circle-lg($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-circle-xl {
+    @include circle-xl($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+//squares
+
+.wet-asphalt-square-xs {
+    @include square-xs($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-square-sm {
+    @include square-sm($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-square-md {
+    @include square-md($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-square-lg {
+    @include square-lg($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-square-xl {
+    @include square-xl($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+//rectangles
+
+.wet-asphalt-rect-xs {
+    @include rect-xs($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-rect-sm {
+    @include rect-sm($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-rect-md {
+    @include rect-md($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-rect-lg {
+    @include rect-lg($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+.wet-asphalt-rect-xl {
+    @include rect-xl($wet_asphalt, $wet_asphalt_bg, $white);
+}
+
+/**
+* midnight blue
+*/
+
+//circles
+
+.midnight-blue-circle-xs {
+    @include circle-xs($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-circle-sm {
+    @include circle-sm($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-circle-md {
+    @include circle-md($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-circle-lg {
+    @include circle-lg($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-circle-xl {
+    @include circle-xl($midnight_blue, $midnight_blue_bg, $white);
+}
+
+//squares
+
+.midnight-blue-square-xs {
+    @include square-xs($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-square-sm {
+    @include square-sm($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-square-md {
+    @include square-md($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-square-lg {
+    @include square-lg($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-square-xl {
+    @include square-xl($midnight_blue, $midnight_blue_bg, $white);
+}
+
+//rectangles
+
+.midnight-blue-rect-xs {
+    @include rect-xs($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-rect-sm {
+    @include rect-sm($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-rect-md {
+    @include rect-md($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-rect-lg {
+    @include rect-lg($midnight_blue, $midnight_blue_bg, $white);
+}
+
+.midnight-blue-rect-xl {
+    @include rect-xl($midnight_blue, $midnight_blue_bg, $white);
+}
+
+/**
+* sunflower
+*/
+
+//circles
+
+.sunflower-circle-xs {
+    @include circle-xs($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-circle-sm {
+    @include circle-sm($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-circle-md {
+    @include circle-md($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-circle-lg {
+    @include circle-lg($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-circle-xl {
+    @include circle-xl($sunflower, $sunflower_bg, $white);
+}
+
+//squares
+
+.sunflower-square-xs {
+    @include square-xs($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-square-sm {
+    @include square-sm($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-square-md {
+    @include square-md($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-square-lg {
+    @include square-lg($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-square-xl {
+    @include square-xl($sunflower, $sunflower_bg, $white);
+}
+
+//rectangles
+
+.sunflower-rect-xs {
+    @include rect-xs($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-rect-sm {
+    @include rect-sm($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-rect-md {
+    @include rect-md($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-rect-lg {
+    @include rect-lg($sunflower, $sunflower_bg, $white);
+}
+
+.sunflower-rect-xl {
+    @include rect-xl($sunflower, $sunflower_bg, $white);
+}
+
+/**
+* orange
+*/
+
+//circles
+
+.orange-circle-xs {
+    @include circle-xs($orange, $orange_bg, $white);
+}
+
+.orange-circle-sm {
+    @include circle-sm($orange, $orange_bg, $white);
+}
+
+.orange-circle-md {
+    @include circle-md($orange, $orange_bg, $white);
+}
+
+.orange-circle-lg {
+    @include circle-lg($orange, $orange_bg, $white);
+}
+
+.orange-circle-xl {
+    @include circle-xl($orange, $orange_bg, $white);
+}
+
+//squares
+
+.orange-square-xs {
+    @include square-xs($orange, $orange_bg, $white);
+}
+
+.orange-square-sm {
+    @include square-sm($orange, $orange_bg, $white);
+}
+
+.orange-square-md {
+    @include square-md($orange, $orange_bg, $white);
+}
+
+.orange-square-lg {
+    @include square-lg($orange, $orange_bg, $white);
+}
+
+.orange-square-xl {
+    @include square-xl($orange, $orange_bg, $white);
+}
+
+//rectangles
+
+.orange-rect-xs {
+    @include rect-xs($orange, $orange_bg, $white);
+}
+
+.orange-rect-sm {
+    @include rect-sm($orange, $orange_bg, $white);
+}
+
+.orange-rect-md {
+    @include rect-md($orange, $orange_bg, $white);
+}
+
+.orange-rect-lg {
+    @include rect-lg($orange, $orange_bg, $white);
+}
+
+.orange-rect-xl {
+    @include rect-xl($orange, $orange_bg, $white);
+}
+
+/**
+* carrot
+*/
+
+//circles
+
+.carrot-circle-xs {
+    @include circle-xs($carrot, $carrot_bg, $white);
+}
+
+.carrot-circle-sm {
+    @include circle-sm($carrot, $carrot_bg, $white);
+}
+
+.carrot-circle-md {
+    @include circle-md($carrot, $carrot_bg, $white);
+}
+
+.carrot-circle-lg {
+    @include circle-lg($carrot, $carrot_bg, $white);
+}
+
+.carrot-circle-xl {
+    @include circle-xl($carrot, $carrot_bg, $white);
+}
+
+//squares
+
+.carrot-square-xs {
+    @include square-xs($carrot, $carrot_bg, $white);
+}
+
+.carrot-square-sm {
+    @include square-sm($carrot, $carrot_bg, $white);
+}
+
+.carrot-square-md {
+    @include square-md($carrot, $carrot_bg, $white);
+}
+
+.carrot-square-lg {
+    @include square-lg($carrot, $carrot_bg, $white);
+}
+
+.carrot-square-xl {
+    @include square-xl($carrot, $carrot_bg, $white);
+}
+
+//rectangles
+
+.carrot-rect-xs {
+    @include rect-xs($carrot, $carrot_bg, $white);
+}
+
+.carrot-rect-sm {
+    @include rect-sm($carrot, $carrot_bg, $white);
+}
+
+.carrot-rect-md {
+    @include rect-md($carrot, $carrot_bg, $white);
+}
+
+.carrot-rect-lg {
+    @include rect-lg($carrot, $carrot_bg, $white);
+}
+
+.carrot-rect-xl {
+    @include rect-xl($carrot, $carrot_bg, $white);
+}
+
+/**
+* pumpkin
+*/
+
+//circles
+
+.pumpkin-circle-xs {
+    @include circle-xs($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-circle-sm {
+    @include circle-sm($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-circle-md {
+    @include circle-md($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-circle-lg {
+    @include circle-lg($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-circle-xl {
+    @include circle-xl($pumpkin, $pumpkin_bg, $white);
+}
+
+//squares
+
+.pumpkin-square-xs {
+    @include square-xs($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-square-sm {
+    @include square-sm($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-square-md {
+    @include square-md($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-square-lg {
+    @include square-lg($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-square-xl {
+    @include square-xl($pumpkin, $pumpkin_bg, $white);
+}
+
+//rectangles
+
+.pumpkin-rect-xs {
+    @include rect-xs($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-rect-sm {
+    @include rect-sm($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-rect-md {
+    @include rect-md($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-rect-lg {
+    @include rect-lg($pumpkin, $pumpkin_bg, $white);
+}
+
+.pumpkin-rect-xl {
+    @include rect-xl($pumpkin, $pumpkin_bg, $white);
+}
+
+/**
+* alizarin
+*/
+
+//circles
+
+.alizarin-circle-xs {
+    @include circle-xs($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-circle-sm {
+    @include circle-sm($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-circle-md {
+    @include circle-md($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-circle-lg {
+    @include circle-lg($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-circle-xl {
+    @include circle-xl($alizarin, $alizarin_bg, $white);
+}
+
+//squares
+
+.alizarin-square-xs {
+    @include square-xs($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-square-sm {
+    @include square-sm($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-square-md {
+    @include square-md($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-square-lg {
+    @include square-lg($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-square-xl {
+    @include square-xl($alizarin, $alizarin_bg, $white);
+}
+
+//rectangles
+
+.alizarin-rect-xs {
+    @include rect-xs($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-rect-sm {
+    @include rect-sm($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-rect-md {
+    @include rect-md($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-rect-lg {
+    @include rect-lg($alizarin, $alizarin_bg, $white);
+}
+
+.alizarin-rect-xl {
+    @include rect-xl($alizarin, $alizarin_bg, $white);
+}
+
+/**
+* pomegranate
+*/
+
+//circles
+
+.pomegranate-circle-xs {
+    @include circle-xs($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-circle-sm {
+    @include circle-sm($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-circle-md {
+    @include circle-md($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-circle-lg {
+    @include circle-lg($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-circle-xl {
+    @include circle-xl($pomegranate, $pomegranate_bg, $white);
+}
+
+//squares
+
+.pomegranate-square-xs {
+    @include square-xs($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-square-sm {
+    @include square-sm($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-square-md {
+    @include square-md($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-square-lg {
+    @include square-lg($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-square-xl {
+    @include square-xl($pomegranate, $pomegranate_bg, $white);
+}
+
+//rectangles
+
+.pomegranate-rect-xs {
+    @include rect-xs($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-rect-sm {
+    @include rect-sm($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-rect-md {
+    @include rect-md($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-rect-lg {
+    @include rect-lg($pomegranate, $pomegranate_bg, $white);
+}
+
+.pomegranate-rect-xl {
+    @include rect-xl($pomegranate, $pomegranate_bg, $white);
+}
+
+/**
+* clouds
+*/
+
+//circles
+
+.clouds-circle-xs {
+    @include circle-xs($clouds, $clouds_bg, $gray);
+}
+
+.clouds-circle-sm {
+    @include circle-sm($clouds, $clouds_bg, $gray);
+}
+
+.clouds-circle-md {
+    @include circle-md($clouds, $clouds_bg, $gray);
+}
+
+.clouds-circle-lg {
+    @include circle-lg($clouds, $clouds_bg, $gray);
+}
+
+.clouds-circle-xl {
+    @include circle-xl($clouds, $clouds_bg, $gray);
+}
+
+//squares
+
+.clouds-square-xs {
+    @include square-xs($clouds, $clouds_bg, $gray);
+}
+
+.clouds-square-sm {
+    @include square-sm($clouds, $clouds_bg, $gray);
+}
+
+.clouds-square-md {
+    @include square-md($clouds, $clouds_bg, $gray);
+}
+
+.clouds-square-lg {
+    @include square-lg($clouds, $clouds_bg, $gray);
+}
+
+.clouds-square-xl {
+    @include square-xl($clouds, $clouds_bg, $gray);
+}
+
+//rectangles
+
+.clouds-rect-xs {
+    @include rect-xs($clouds, $clouds_bg, $gray);
+}
+
+.clouds-rect-sm {
+    @include rect-sm($clouds, $clouds_bg, $gray);
+}
+
+.clouds-rect-md {
+    @include rect-md($clouds, $clouds_bg, $gray);
+}
+
+.clouds-rect-lg {
+    @include rect-lg($clouds, $clouds_bg, $gray);
+}
+
+.clouds-rect-xl {
+    @include rect-xl($clouds, $clouds_bg, $gray);
+}
+
+/**
+* silver
+*/
+
+//circles
+
+.silver-circle-xs {
+    @include circle-xs($silver, $silver_bg, $white);
+}
+
+.silver-circle-sm {
+    @include circle-sm($silver, $silver_bg, $white);
+}
+
+.silver-circle-md {
+    @include circle-md($silver, $silver_bg, $white);
+}
+
+.silver-circle-lg {
+    @include circle-lg($silver, $silver_bg, $white);
+}
+
+.silver-circle-xl {
+    @include circle-xl($silver, $silver_bg, $white);
+}
+
+//squares
+
+.silver-square-xs {
+    @include square-xs($silver, $silver_bg, $white);
+}
+
+.silver-square-sm {
+    @include square-sm($silver, $silver_bg, $white);
+}
+
+.silver-square-md {
+    @include square-md($silver, $silver_bg, $white);
+}
+
+.silver-square-lg {
+    @include square-lg($silver, $silver_bg, $white);
+}
+
+.silver-square-xl {
+    @include square-xl($silver, $silver_bg, $white);
+}
+
+//rectangles
+
+.silver-rect-xs {
+    @include rect-xs($silver, $silver_bg, $white);
+}
+
+.silver-rect-sm {
+    @include rect-sm($silver, $silver_bg, $white);
+}
+
+.silver-rect-md {
+    @include rect-md($silver, $silver_bg, $white);
+}
+
+.silver-rect-lg {
+    @include rect-lg($silver, $silver_bg, $white);
+}
+
+.silver-rect-xl {
+    @include rect-xl($silver, $silver_bg, $white);
+}
+
+/**
+* concrete
+*/
+
+//circles
+
+.concrete-circle-xs {
+    @include circle-xs($concrete, $concrete_bg, $white);
+}
+
+.concrete-circle-sm {
+    @include circle-sm($concrete, $concrete_bg, $white);
+}
+
+.concrete-circle-md {
+    @include circle-md($concrete, $concrete_bg, $white);
+}
+
+.concrete-circle-lg {
+    @include circle-lg($concrete, $concrete_bg, $white);
+}
+
+.concrete-circle-xl {
+    @include circle-xl($concrete, $concrete_bg, $white);
+}
+
+//squares
+
+.concrete-square-xs {
+    @include square-xs($concrete, $concrete_bg, $white);
+}
+
+.concrete-square-sm {
+    @include square-sm($concrete, $concrete_bg, $white);
+}
+
+.concrete-square-md {
+    @include square-md($concrete, $concrete_bg, $white);
+}
+
+.concrete-square-lg {
+    @include square-lg($concrete, $concrete_bg, $white);
+}
+
+.concrete-square-xl {
+    @include square-xl($concrete, $concrete_bg, $white);
+}
+
+//rectangles
+
+.concrete-rect-xs {
+    @include rect-xs($concrete, $concrete_bg, $white);
+}
+
+.concrete-rect-sm {
+    @include rect-sm($concrete, $concrete_bg, $white);
+}
+
+.concrete-rect-md {
+    @include rect-md($concrete, $concrete_bg, $white);
+}
+
+.concrete-rect-lg {
+    @include rect-lg($concrete, $concrete_bg, $white);
+}
+
+.concrete-rect-xl {
+    @include rect-xl($concrete, $concrete_bg, $white);
+}
+
+/**
+* asbestos
+*/
+
+//circles
+
+.asbestos-circle-xs {
+    @include circle-xs($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-circle-sm {
+    @include circle-sm($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-circle-md {
+    @include circle-md($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-circle-lg {
+    @include circle-lg($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-circle-xl {
+    @include circle-xl($asbestos, $asbestos_bg, $white);
+}
+
+//squares
+
+.asbestos-square-xs {
+    @include square-xs($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-square-sm {
+    @include square-sm($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-square-md {
+    @include square-md($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-square-lg {
+    @include square-lg($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-square-xl {
+    @include square-xl($asbestos, $asbestos_bg, $white);
+}
+
+//rectangles
+
+.asbestos-rect-xs {
+    @include rect-xs($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-rect-sm {
+    @include rect-sm($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-rect-md {
+    @include rect-md($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-rect-lg {
+    @include rect-lg($asbestos, $asbestos_bg, $white);
+}
+
+.asbestos-rect-xl {
+    @include rect-xl($asbestos, $asbestos_bg, $white);
 }

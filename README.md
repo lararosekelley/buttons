@@ -39,7 +39,7 @@ The only thing you need to customize is the font!
 **Shapes**
 
 * circle
-* rectangle
+* rect
 * square
 
 **Sizes**
@@ -55,3 +55,8 @@ The only thing you need to customize is the font!
 You can use any of these colors:
 
 ![colors](img/colors.png)
+
+### To-do
+
+* Break up things into smaller files
+    *  people don't have to include one large CSS file in their project if they only want the red buttons / square buttons / etc.
