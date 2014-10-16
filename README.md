@@ -16,7 +16,7 @@ and you can then use the Sass files (in the `scss` dir) or the compiled `main.cs
 
 ### Examples
 
-See the [examples.html](https://cdn.rawgit.com/tylucaskelley/buttons/master/examples.html) file!
+See the [examples.html](https://raw.githack.com/tylucaskelley/buttons/master/examples.html) file!
 
 My [personal website](http://www.tylucaskelley.com) also utilizes these buttons and colors.
 
