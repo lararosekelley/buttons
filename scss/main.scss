@@ -7,7 +7,11 @@
 
 @import 'partials/_shapes';
 
-//turquoise
+/**
+* turquoise
+*/
+
+//circles
 
 .turquoise-circle-xs {
     @include circle-xs($turquoise, $turquoise_bg, $white);
@@ -27,4 +31,468 @@
 
 .turquoise-circle-xl {
     @include circle-xl($turquoise, $turquoise_bg, $white);
+}
+
+//squares
+
+.turquoise-square-xs {
+    @include square-xs($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-square-sm {
+    @include square-sm($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-square-md {
+    @include square-md($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-square-lg {
+    @include square-lg($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-square-xl {
+    @include square-xl($turquoise, $turquoise_bg, $white);
+}
+
+//rectangles
+
+.turquoise-rect-xs {
+    @include rect-xs($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-rect-sm {
+    @include rect-sm($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-rect-md {
+    @include rect-md($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-rect-lg {
+    @include rect-lg($turquoise, $turquoise_bg, $white);
+}
+
+.turquoise-rect-xl {
+    @include rect-xl($turquoise, $turquoise_bg, $white);
+}
+
+/**
+* green sea
+*/
+
+//circles
+
+.green-sea-circle-xs {
+    @include circle-xs($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-circle-sm {
+    @include circle-sm($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-circle-md {
+    @include circle-md($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-circle-lg {
+    @include circle-lg($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-circle-xl {
+    @include circle-xl($green_sea, $green_sea_bg, $white);
+}
+
+//squares
+
+.green-sea-square-xs {
+    @include square-xs($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-square-sm {
+    @include square-sm($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-square-md {
+    @include square-md($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-square-lg {
+    @include square-lg($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-square-xl {
+    @include square-xl($green_sea, $green_sea_bg, $white);
+}
+
+//rectangles
+
+.green-sea-rect-xs {
+    @include rect-xs($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-rect-sm {
+    @include rect-sm($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-rect-md {
+    @include rect-md($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-rect-lg {
+    @include rect-lg($green_sea, $green_sea_bg, $white);
+}
+
+.green-sea-rect-xl {
+    @include rect-xl($green_sea, $green_sea_bg, $white);
+}
+
+/**
+* emerald
+*/
+
+//circles
+
+.emerald-circle-xs {
+    @include circle-xs($emerald, $emerald_bg, $white);
+}
+
+.emerald-circle-sm {
+    @include circle-sm($emerald, $emerald_bg, $white);
+}
+
+.emerald-circle-md {
+    @include circle-md($emerald, $emerald_bg, $white);
+}
+
+.emerald-circle-lg {
+    @include circle-lg($emerald, $emerald_bg, $white);
+}
+
+.emerald-circle-xl {
+    @include circle-xl($emerald, $emerald_bg, $white);
+}
+
+//squares
+
+.emerald-square-xs {
+    @include square-xs($emerald, $emerald_bg, $white);
+}
+
+.emerald-square-sm {
+    @include square-sm($emerald, $emerald_bg, $white);
+}
+
+.emerald-square-md {
+    @include square-md($emerald, $emerald_bg, $white);
+}
+
+.emerald-square-lg {
+    @include square-lg($emerald, $emerald_bg, $white);
+}
+
+.emerald-square-xl {
+    @include square-xl($emerald, $emerald_bg, $white);
+}
+
+//rectangles
+
+.emerald-rect-xs {
+    @include rect-xs($emerald, $emerald_bg, $white);
+}
+
+.emerald-rect-sm {
+    @include rect-sm($emerald, $emerald_bg, $white);
+}
+
+.emerald-rect-md {
+    @include rect-md($emerald, $emerald_bg, $white);
+}
+
+.emerald-rect-lg {
+    @include rect-lg($emerald, $emerald_bg, $white);
+}
+
+.emerald-rect-xl {
+    @include rect-xl($emerald, $emerald_bg, $white);
+}
+
+/**
+* nephritis
+*/
+
+//circles
+
+.nephritis-circle-xs {
+    @include circle-xs($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-circle-sm {
+    @include circle-sm($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-circle-md {
+    @include circle-md($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-circle-lg {
+    @include circle-lg($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-circle-xl {
+    @include circle-xl($nephritis, $nephritis_bg, $white);
+}
+
+//squares
+
+.nephritis-square-xs {
+    @include square-xs($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-square-sm {
+    @include square-sm($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-square-md {
+    @include square-md($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-square-lg {
+    @include square-lg($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-square-xl {
+    @include square-xl($nephritis, $nephritis_bg, $white);
+}
+
+//rectangles
+
+.nephritis-rect-xs {
+    @include rect-xs($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-rect-sm {
+    @include rect-sm($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-rect-md {
+    @include rect-md($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-rect-lg {
+    @include rect-lg($nephritis, $nephritis_bg, $white);
+}
+
+.nephritis-rect-xl {
+    @include rect-xl($nephritis, $nephritis_bg, $white);
+}
+
+/**
+* peter river
+*/
+
+//circles
+
+.peter-river-circle-xs {
+    @include circle-xs($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-circle-sm {
+    @include circle-sm($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-circle-md {
+    @include circle-md($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-circle-lg {
+    @include circle-lg($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-circle-xl {
+    @include circle-xl($peter_river, $peter_river_bg, $white);
+}
+
+//squares
+
+.peter-river-square-xs {
+    @include square-xs($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-square-sm {
+    @include square-sm($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-square-md {
+    @include square-md($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-square-lg {
+    @include square-lg($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-square-xl {
+    @include square-xl($peter_river, $peter_river_bg, $white);
+}
+
+//rectangles
+
+.peter-river-rect-xs {
+    @include rect-xs($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-rect-sm {
+    @include rect-sm($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-rect-md {
+    @include rect-md($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-rect-lg {
+    @include rect-lg($peter_river, $peter_river_bg, $white);
+}
+
+.peter-river-rect-xl {
+    @include rect-xl($peter_river, $peter_river_bg, $white);
+}
+
+/**
+* belize hole
+*/
+
+//circles
+
+.belize-hole-circle-xs {
+    @include circle-xs($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-sm {
+    @include circle-sm($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-md {
+    @include circle-md($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-lg {
+    @include circle-lg($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-xl {
+    @include circle-xl($belize_hole, $belize_hole_bg, $white);
+}
+
+//squares
+
+.belize-hole-square-xs {
+    @include square-xs($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-sm {
+    @include square-sm($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-md {
+    @include square-md($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-lg {
+    @include square-lg($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-xl {
+    @include square-xl($belize_hole, $belize_hole_bg, $white);
+}
+
+//rectangles
+
+.belize-hole-rect-xs {
+    @include rect-xs($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-sm {
+    @include rect-sm($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-md {
+    @include rect-md($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-lg {
+    @include rect-lg($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-xl {
+    @include rect-xl($belize_hole, $belize_hole_bg, $white);
+}
+
+/**
+* amethyst
+*/
+
+//circles
+
+.belize-hole-circle-xs {
+    @include circle-xs($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-sm {
+    @include circle-sm($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-md {
+    @include circle-md($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-lg {
+    @include circle-lg($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-circle-xl {
+    @include circle-xl($belize_hole, $belize_hole_bg, $white);
+}
+
+//squares
+
+.belize-hole-square-xs {
+    @include square-xs($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-sm {
+    @include square-sm($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-md {
+    @include square-md($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-lg {
+    @include square-lg($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-square-xl {
+    @include square-xl($belize_hole, $belize_hole_bg, $white);
+}
+
+//rectangles
+
+.belize-hole-rect-xs {
+    @include rect-xs($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-sm {
+    @include rect-sm($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-md {
+    @include rect-md($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-lg {
+    @include rect-lg($belize_hole, $belize_hole_bg, $white);
+}
+
+.belize-hole-rect-xl {
+    @include rect-xl($belize_hole, $belize_hole_bg, $white);
 }
