@@ -1,6 +1,6 @@
 {
-  "name": "buttons",
-  "version": "1.0.0",
+  "name": "flatui-buttons",
+  "version": "1.0.1",
   "homepage": "https://github.com/tylucaskelley/buttons",
   "authors": [
     "Ty-Lucas Kelley <tylucaskelley@gmail.com>"
@@ -20,6 +20,10 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "examples.html",
+    "install.sh",
+    "README.md",
+    "img"
   ]
 }

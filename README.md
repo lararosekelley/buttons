@@ -12,7 +12,7 @@ I took the colors from [http://flatuicolors.com](http://flatuicolors.com) and ma
 
 You can get the compiled CSS file via the Bower package manager:
 
-    $ bower install buttons
+    $ bower install flatui-buttons
 
 **Install Script**
 
