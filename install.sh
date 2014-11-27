@@ -1,4 +1,6 @@
 #!/bin/sh
+# this install script is for users who don't want to install via bower and
+# and instead want the source files
 
 # start
 echo "installing tylucaskelley/buttons..." &&

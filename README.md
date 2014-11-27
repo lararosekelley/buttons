@@ -8,6 +8,14 @@ I took the colors from [http://flatuicolors.com](http://flatuicolors.com) and ma
 
 ### Installation
 
+**Bower**
+
+You can get the compiled CSS file via the Bower package manager:
+
+    $ bower install buttons
+
+**Install Script**
+
 Run the install script (will create a `buttons` directory and install everything there):
 
     $ curl -s https://raw.githubusercontent.com/tylucaskelley/buttons/master/install.sh | sh

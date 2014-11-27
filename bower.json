@@ -1,0 +1,25 @@
+{
+  "name": "buttons",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tylucaskelley/buttons",
+  "authors": [
+    "Ty-Lucas Kelley <tylucaskelley@gmail.com>"
+  ],
+  "description": "Buttons of all shapes and sizes, based on the FlatUI color palette",
+  "main": "css/buttons.css",
+  "keywords": [
+    "sass",
+    "scss",
+    "css",
+    "flatui",
+    "buttons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
