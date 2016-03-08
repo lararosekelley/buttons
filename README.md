@@ -18,7 +18,7 @@ You can get the compiled CSS file via the Bower package manager:
 
 **Other**
 
-Otherwise, just download the release [zip file](TODO)!
+Otherwise, just download the release [zip file](https://github.com/tylucaskelley/buttons/archive/v1.0.3.zip)!
 
 **Install Script**
 
