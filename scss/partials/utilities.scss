@@ -1,0 +1,34 @@
+// misc. utilities
+
+@mixin box-shadow($size, $color) {
+    box-shadow: (-$size) $size 0 $color;
+}
+
+@mixin border-radius($r) {
+    -moz-border-radius: $r;
+    -ms-border-radius: $r;
+    -webkit-border-radius: $r;
+    border-radius: $r;
+}
+
+@mixin size($w, $h) {
+    height: $h;
+    width: $w;
+}
+
+@mixin pushed($box-size) {
+    &:active {
+        box-shadow: none;
+        left: (-$box-size);
+        position: relative;
+        top: $box-size;
+
+    }
+}
+
+@mixin color($color, $bg, $text-color, $box-size) {
+    @include box-shadow($box-size, $bg);
+    @include pushed($box-size);
+    background-color: $color;
+    color: $text-color;
+}
