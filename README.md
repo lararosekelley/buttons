@@ -1,6 +1,8 @@
-# Buttons
+# Buttons v1.0.3
 
 by Ty-Lucas Kelley
+
+**NOTE**: This project is no longer maintained.
 
 ---
 
@@ -14,33 +16,32 @@ You can get the compiled CSS file via the Bower package manager:
 
     $ bower install flatui-buttons
 
+**Other**
+
+Otherwise, just download the release [zip file](TODO)!
+
 **Install Script**
-
-Run the install script (will create a `buttons` directory and install everything there):
-
-    $ curl -s https://raw.githubusercontent.com/tylucaskelley/buttons/master/install.sh | sh
-
-This will install all of the Sass files. If you want the minified CSS instead, simply do this:
-
-    $ curl -sO https://raw.githubusercontent.com/tylucaskelley/buttons/master/css/buttons.css
 
 ### Examples
 
-See the [examples.html](https://raw.githack.com/tylucaskelley/buttons/master/examples.html) file!
-
-My [personal website](http://www.tylucaskelley.com) also utilizes these buttons and colors.
+Check out the [examples.html](https://raw.githack.com/tylucaskelley/buttons/master/examples.html)
+file for usage examples.
 
 ### Usage
 
 I've set it up so you can use `a` tags:
 
-    <a href='somewhere.over.the.rainbow'>
-        <div class='carrot-circle-md'>hello</div>
-    </a>
+```html
+<a href="http://google.com">
+    <div class='carrot-circle-md'>hello</div>
+</a>
+```
 
 Or, you can use `button` tags:
 
-    <button class='wet-asphalt-rect-xl'>hello</button>
+```html
+<button class='wet-asphalt-rect-xl'>hello</button>
+```
 
 The only thing you need to customize is the font!
 
@@ -65,8 +66,3 @@ The only thing you need to customize is the font!
 You can use any of these colors:
 
 ![colors](img/colors.png)
-
-### To-do
-
-* Break up things into smaller files
-    *  people don't have to include one large CSS file in their project if they only want the red buttons / square buttons / etc.

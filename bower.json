@@ -1,12 +1,12 @@
 {
   "name": "flatui-buttons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/tylucaskelley/buttons",
   "authors": [
     "Ty-Lucas Kelley <tylucaskelley@gmail.com>"
   ],
-  "description": "Buttons of all shapes and sizes, based on the FlatUI color palette",
-  "main": "css/buttons.css",
+  "description": "Buttons of all shapes and sizes, based on the Flat UI color palette",
+  "main": "dist/buttons.min.css",
   "keywords": [
     "sass",
     "scss",
@@ -17,13 +17,7 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
     "examples.html",
-    "install.sh",
-    "README.md",
-    "img"
+    "img/"
   ]
 }
